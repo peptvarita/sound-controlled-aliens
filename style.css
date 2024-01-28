@@ -1,0 +1,19 @@
+body{background: linear-gradient(217deg, rgba(233,0,0,.8), rgba(0,0,0) 70.71%),
+    linear-gradient(127deg, rgba(255,0,.8), rgba(0,255,0,0) 70.71%),
+    linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);}
+
+button{
+    background-color: black; color: rgb(229, 142, 142);width: 200px; height: 50px; border-radius: 10px;font-size: 20px;
+}
+.header_div{
+color :rgb(217, 112, 112)
+}
+.header_div p{
+    color :rgb(231, 243, 239); font-weight: bold;
+}
+#Sn,#acc{
+    color:rgb(245, 142, 142)
+}
+#footer{
+    position: fixed; bottom: 0 ; text-align: center; width: 100%; background-color :rgb(217, 112, 112) ; color: black
+}
